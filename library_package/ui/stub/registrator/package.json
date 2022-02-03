@@ -1,0 +1,4 @@
+{
+  "main": "../../../cjs/ui/stub/registrator.js",
+  "module": "../../../esm/ui/stub/registrator.js"
+}
